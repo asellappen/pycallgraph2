@@ -4,9 +4,9 @@ arch:
   - ppc64le
   - amd64
 python:
-  - "3.5"
-  - "3.8"
-  - "3.9"
+  - "2.7"
+  - "3.3"
+  - "3.4"
   - "pypy"
 # pytest does not support python 3.5
 # https://bitbucket.org/pytest-dev/pytest/pull-request/296/astcall-signature-changed-on-35
